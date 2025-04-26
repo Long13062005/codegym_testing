@@ -1,3 +1,4 @@
+#In ra so chia het cho 3 lon nhat trong mang
 #Khai bao N
 N = int(input("Input N: "))
 

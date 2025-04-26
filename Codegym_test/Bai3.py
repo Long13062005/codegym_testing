@@ -49,6 +49,7 @@ for i in range(N):
     diem_hoa = checkDiemHoa(diem_hoa)
     sinh_vien = SinhVien(ten, diem_toan, diem_ly, diem_hoa)
     sinh_vien_list.append(sinh_vien)
+    print("Da nhap sinh vien: ", sinh_vien.ten)
 
 
 # # Tim sinh vien co diem trung binh cao nhat

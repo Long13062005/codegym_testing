@@ -1,3 +1,4 @@
+#In ra so nguyen to nho hon N
 # Khai bao N
 N = int(input("Input N: "))
 
